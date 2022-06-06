@@ -108,19 +108,19 @@
     margin: 11px 4px;
     padding: 0 16px;
     line-height: 27px;
-    min-width: 54px;
     text-align: center;
     cursor: pointer;
-    user-select: none;
+    /* min-width: 54px; */
+    /* user-select: none; */ 
   }
   
   .feelinglucky {
     padding: 0 16px;
     line-height: 27px;
-    min-width: 54px;
     text-align: center;
     cursor: pointer;
-    user-select: none;
+    /* min-width: 54px; */
+    /* user-select: none; */
   }
   
   .footer {
